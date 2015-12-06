@@ -1,4 +1,4 @@
-vim external minimap
+Vim External Minimap
 ========================================
 
 Version: v1.0.0-alpha
