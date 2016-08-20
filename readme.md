@@ -1,7 +1,7 @@
 Vim External Minimap
 ========================================
 
-Version: v1.0.0-alpha
+> Version: v1.0.0-alpha
 
 ![image](https://github.com/ryanoasis/vim-external-minimap/wiki/screenshots/example-usage-1.gif)
 
